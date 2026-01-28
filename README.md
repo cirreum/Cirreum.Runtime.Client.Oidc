@@ -1,3 +1,9 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+>
+> This package has been renamed and moved to [Cirreum.Runtime.Wasm.Oidc](https://github.com/cirreum/Cirreum.Runtime.Wasm.Oidc).
+> Please use the new package for all future development.
+
 # Cirreum.Runtime.Client.Oidc
 
 [![NuGet Version](https://img.shields.io/nuget/v/Cirreum.Runtime.Client.Oidc.svg?style=flat-square&labelColor=1F1F1F&color=003D8F)](https://www.nuget.org/packages/Cirreum.Runtime.Client.Oidc/)
